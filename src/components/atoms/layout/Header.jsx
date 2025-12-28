@@ -10,6 +10,7 @@ export const Header = () => {
 }
 
 const StyledHeader = styled.header`
+    width: 100%;
     background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
     display: flex;
     justify-content: center;
